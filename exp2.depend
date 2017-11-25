@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1511147319 source:e:\exp2\main.cpp
+	<iostream>
+	"LinkStack.h"
+	<math.h>
+
+1510979184 e:\exp2\linkstack.h
+	<iostream>
+	<stdlib.h>
+
